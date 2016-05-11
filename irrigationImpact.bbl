@@ -1,0 +1,316 @@
+\begin{thebibliography}{47}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Adegoke et~al.}(2003)\textit{Adegoke, Pielke~Sr, Eastman,
+  Mahmood, and Hubbard}}]{adegoke2003impact}
+Adegoke, J.~O., R.~A. Pielke~Sr, J.~Eastman, R.~Mahmood, and K.~G. Hubbard
+  (2003), Impact of irrigation on midsummer surface fluxes and temperature
+  under dry synoptic conditions: A regional atmospheric model study of the us
+  high plains, \textit{Monthly Weather Review}, \textit{131}(3), 556--564.
+
+\bibitem[{\textit{Bonan}(1997)}]{bonan1997effects}
+Bonan, G.~B. (1997), Effects of land use on the climate of the united states,
+  \textit{Climatic Change}, \textit{37}(3), 449--486.
+
+\bibitem[{\textit{Bonfils and Lobell}(2007)}]{bonfils2007empirical}
+Bonfils, C., and D.~Lobell (2007), Empirical evidence for a recent slowdown in
+  irrigation-induced cooling, \textit{Proceedings of the National Academy of
+  Sciences}, \textit{104}(34), 13,582--13,587.
+
+\bibitem[{\textit{Boucher et~al.}(2004)\textit{Boucher, Myhre, and
+  Myhre}}]{boucher2004direct}
+Boucher, O., G.~Myhre, and A.~Myhre (2004), Direct human influence of
+  irrigation on atmospheric water vapour and climate, \textit{Climate
+  Dynamics}, \textit{22}(6-7), 597--603.
+
+\bibitem[{\textit{Daly et~al.}(2008)\textit{Daly, Halbleib, Smith, Gibson,
+  Doggett, Taylor, Curtis, and Pasteris}}]{daly2008physiographically}
+Daly, C., M.~Halbleib, J.~I. Smith, W.~P. Gibson, M.~K. Doggett, G.~H. Taylor,
+  J.~Curtis, and P.~P. Pasteris (2008), {Physiographically sensitive mapping of
+  climatological temperature and precipitation across the conterminous United
+  States}, \textit{International Journal of Climatology}, \textit{28}(15),
+  2031--2064.
+
+\bibitem[{\textit{DeAngelis et~al.}(2010)\textit{DeAngelis, Dominguez, Fan,
+  Robock, Kustu, and Robinson}}]{deangelis2010evidence}
+DeAngelis, A., F.~Dominguez, Y.~Fan, A.~Robock, M.~D. Kustu, and D.~Robinson
+  (2010), Evidence of enhanced precipitation due to irrigation over the great
+  plains of the united states, \textit{Journal of Geophysical Research:
+  Atmospheres (1984--2012)}, \textit{115}(D15).
+
+\bibitem[{\textit{D{\"o}ll and Siebert}(2002)}]{doll2002global}
+D{\"o}ll, P., and S.~Siebert (2002), Global modeling of irrigation water
+  requirements, \textit{Water Resources Research}, \textit{38}(4), 8--1.
+
+\bibitem[{\textit{Famiglietti et~al.}(2011)\textit{Famiglietti, Lo, Ho,
+  Bethune, Anderson, Syed, Swenson, de~Linage, and
+  Rodell}}]{famiglietti2011satellites}
+Famiglietti, J., M.~Lo, S.~Ho, J.~Bethune, K.~Anderson, T.~Syed, S.~Swenson,
+  C.~de~Linage, and M.~Rodell (2011), Satellites measure recent rates of
+  groundwater depletion in california's central valley, \textit{Geophysical
+  Research Letters}, \textit{38}(3).
+
+\bibitem[{\textit{Ferro and Segers}(2003)}]{ferro2003inference}
+Ferro, C.~A., and J.~Segers (2003), Inference for clusters of extreme values,
+  \textit{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, \textit{65}(2), 545--556.
+
+\bibitem[{\textit{Foley et~al.}(2003)\textit{Foley, Costa, Delire, Ramankutty,
+  and Snyder}}]{foley2003green}
+Foley, J.~A., M.~H. Costa, C.~Delire, N.~Ramankutty, and P.~Snyder (2003),
+  Green surprise? how terrestrial ecosystems could affect earth's climate,
+  \textit{Frontiers in Ecology and the Environment}, \textit{1}(1), 38--44.
+
+\bibitem[{\textit{Fox-Rabinovitz et~al.}(1997)\textit{Fox-Rabinovitz,
+  Stenchikov, Suarez, and Takacs}}]{fox1997finite}
+Fox-Rabinovitz, M.~S., G.~L. Stenchikov, M.~J. Suarez, and L.~L. Takacs (1997),
+  {A finite-difference GCM dynamical core with a variable-resolution stretched
+  grid}, \textit{Monthly Weather Review}, \textit{125}(11), 2943--2968.
+
+\bibitem[{\textit{Gilleland and Katz}(2011)}]{gilleland2011new}
+Gilleland, E., and R.~W. Katz (2011), New software to analyze how extremes
+  change over time, \textit{Eos, Transactions American Geophysical Union},
+  \textit{92}(2), 13--14.
+
+\bibitem[{\textit{Hamlet and Lettenmaier}(2005)}]{hamlet2005production}
+Hamlet, A.~F., and D.~P. Lettenmaier (2005), {Production of Temporally
+  Consistent Gridded Precipitation and Temperature Fields for the Continental
+  United States*}, \textit{Journal of Hydrometeorology}, \textit{6}(3),
+  330--336.
+
+\bibitem[{\textit{Hurrell et~al.}(2013)\textit{Hurrell, Holland, Gent, Ghan,
+  Kay, Kushner, Lamarque, Large, Lawrence, Lindsay
+  et~al.}}]{hurrell2013community}
+Hurrell, J.~W., M.~M. Holland, P.~R. Gent, S.~Ghan, J.~E. Kay, P.~Kushner,
+  J.-F. Lamarque, W.~G. Large, D.~Lawrence, K.~Lindsay, et~al. (2013), {The
+  community earth system model: A framework for collaborative research},
+  \textit{Bulletin of the American Meteorological Society}, \textit{94}(9),
+  1339--1360.
+
+\bibitem[{\textit{Kanamaru and Kanamitsu}(2008)}]{kanamaru2008model}
+Kanamaru, H., and M.~Kanamitsu (2008), Model diagnosis of nighttime minimum
+  temperature warming during summer due to irrigation in the california central
+  valley, \textit{Journal of Hydrometeorology}, \textit{9}(5), 1061--1072.
+
+\bibitem[{\textit{Kueppers et~al.}(2007)\textit{Kueppers, Snyder, and
+  Sloan}}]{kueppers2007irrigation}
+Kueppers, L.~M., M.~A. Snyder, and L.~C. Sloan (2007), Irrigation cooling
+  effect: Regional climate forcing by land-use change, \textit{Geophysical
+  Research Letters}, \textit{34}(3).
+
+\bibitem[{\textit{Kueppers et~al.}(2008)\textit{Kueppers, Snyder, Sloan, Cayan,
+  Jin, Kanamaru, Kanamitsu, Miller, Tyree, Du et~al.}}]{kueppers2008seasonal}
+Kueppers, L.~M., M.~A. Snyder, L.~C. Sloan, D.~Cayan, J.~Jin, H.~Kanamaru,
+  M.~Kanamitsu, N.~L. Miller, M.~Tyree, H.~Du, et~al. (2008), Seasonal
+  temperature responses to land-use change in the western united states,
+  \textit{Global and Planetary Change}, \textit{60}(3), 250--264.
+
+\bibitem[{\textit{Laprise et~al.}(2008)\textit{Laprise, De~Elia, Caya, Biner,
+  Lucas-Picher, Diaconescu, Leduc, Alexandru, and
+  Separovic}}]{laprise2008challenging}
+Laprise, R., R.~De~Elia, D.~Caya, S.~Biner, P.~Lucas-Picher, E.~Diaconescu,
+  M.~Leduc, A.~Alexandru, and L.~Separovic (2008), Challenging some tenets of
+  regional climate modelling, \textit{Meteorology and Atmospheric Physics},
+  \textit{100}(1-4), 3--22.
+
+\bibitem[{\textit{Leng et~al.}(2013)\textit{Leng, Huang, Tang, Sacks, Lei, and
+  Leung}}]{leng2013modeling}
+Leng, G., M.~Huang, Q.~Tang, W.~J. Sacks, H.~Lei, and L.~R. Leung (2013),
+  Modeling the effects of irrigation on land surface fluxes and states over the
+  conterminous united states: Sensitivity to input data and model parameters,
+  \textit{Journal of Geophysical Research: Atmospheres}, \textit{118}(17),
+  9789--9803.
+
+\bibitem[{\textit{Leung et~al.}(2003)\textit{Leung, Mearns, Giorgi, and
+  Wilby}}]{leung2003regional}
+Leung, L.~R., L.~O. Mearns, F.~Giorgi, and R.~L. Wilby (2003), Regional climate
+  research: needs and opportunities, \textit{Bulletin of the American
+  Meteorological Society}, \textit{84}(1), 89--95.
+
+\bibitem[{\textit{Lo and Famiglietti}(2013)}]{lo2013irrigation}
+Lo, M.-H., and J.~S. Famiglietti (2013), Irrigation in california's central
+  valley strengthens the southwestern us water cycle, \textit{Geophysical
+  Research Letters}, \textit{40}(2), 301--306.
+
+\bibitem[{\textit{Lobell et~al.}(2006)\textit{Lobell, Bala, and
+  Duffy}}]{lobell2006biogeophysical}
+Lobell, D., G.~Bala, and P.~Duffy (2006), Biogeophysical impacts of cropland
+  management changes on climate, \textit{Geophysical Research Letters},
+  \textit{33}(6).
+
+\bibitem[{\textit{Lobell and Bonfils}(2008)}]{lobell2008effect}
+Lobell, D.~B., and C.~Bonfils (2008), The effect of irrigation on regional
+  temperatures: A spatial and temporal analysis of trends in california,
+  1934-2002, \textit{Journal of Climate}, \textit{21}(10), 2063--2071.
+
+\bibitem[{\textit{Lobell et~al.}(2008)\textit{Lobell, Bonfils, Kueppers, and
+  Snyder}}]{lobell2008irrigation}
+Lobell, D.~B., C.~J. Bonfils, L.~M. Kueppers, and M.~A. Snyder (2008),
+  Irrigation cooling effect on temperature and heat index extremes,
+  \textit{Geophysical Research Letters}, \textit{35}(9).
+
+\bibitem[{\textit{Mahmood et~al.}(2006)\textit{Mahmood, Foster, Keeling,
+  Hubbard, Carlson, and Leeper}}]{mahmood2006impacts}
+Mahmood, R., S.~A. Foster, T.~Keeling, K.~G. Hubbard, C.~Carlson, and R.~Leeper
+  (2006), Impacts of irrigation on 20th century temperature in the northern
+  great plains, \textit{Global and Planetary Change}, \textit{54}(1), 1--18.
+
+\bibitem[{\textit{Maurer et~al.}(2002)\textit{Maurer, Wood, Adam, Lettenmaier,
+  and Nijssen}}]{maurer2002long}
+Maurer, E., A.~Wood, J.~Adam, D.~Lettenmaier, and B.~Nijssen (2002), {A
+  long-term hydrologically based dataset of land surface fluxes and states for
+  the conterminous United States*}, \textit{Journal of climate},
+  \textit{15}(22), 3237--3251.
+
+\bibitem[{\textit{Neale et~al.}(2010{\natexlab{a}})\textit{Neale, Chen,
+  Gettelman, Lauritzen, Park, Williamson, Conley, Garcia, Kinnison, Lamarque
+  et~al.}}]{neale2010description}
+Neale, R.~B., C.-C. Chen, A.~Gettelman, P.~H. Lauritzen, S.~Park, D.~L.
+  Williamson, A.~J. Conley, R.~Garcia, D.~Kinnison, J.-F. Lamarque, et~al.
+  (2010{\natexlab{a}}), {Description of the NCAR community atmosphere model
+  (CAM 5.0)}, \textit{NCAR Tech. Note NCAR/TN-486+ STR}.
+
+\bibitem[{\textit{Neale et~al.}(2010{\natexlab{b}})\textit{Neale, Chen,
+  Gettelman, Lauritzen, Park, Williamson, Conley, Garcia, Kinnison, Lamarque,
+  Marsh, Mills, Smith, Tilmes, Vitt, Cameron-Smith, Collins, Iacono, , Easter,
+  Liu, Ghan, Rasch, and Taylor}}]{CAM5Tech}
+Neale, R.~B., C.-C. Chen, A.~Gettelman, P.~H. Lauritzen, S.~Park, D.~L.
+  Williamson, A.~J. Conley, R.~Garcia, D.~Kinnison, J.-F. Lamarque, D.~Marsh,
+  M.~Mills, A.~K. Smith, S.~Tilmes, F.~Vitt, P.~Cameron-Smith, W.~D. Collins,
+  M.~J. Iacono, , R.~C. Easter, X.~Liu, S.~J. Ghan, P.~J. Rasch, and M.~A.
+  Taylor (2010{\natexlab{b}}), Description of the {NCAR} {C}ommunity
+  {A}tmosphere {M}odel ({CAM} 5.0), \textit{NCAR Technical Note
+  NCAR/TN-486+STR}, National Center for Atmospheric Research, Boulder,
+  Colorado.
+
+\bibitem[{\textit{Oleson et~al.}(2010{\natexlab{a}})\textit{Oleson, Lawrence,
+  Bonan, Flanner, Kluzek, Lawrence, Levis, Swenson, Thornton, Dai, Decker,
+  Dickinson, Feddema, Heald, Hoffman, Lamarque, Mahowald, Niu, Qian, Randerson,
+  Running, Sakaguchi, Slater, Stockli, Wang, Yang, Zeng, and Zeng}}]{CLM40Tech}
+Oleson, K., D.~Lawrence, G.~Bonan, M.~Flanner, E.~Kluzek, P.~Lawrence,
+  S.~Levis, S.~Swenson, P.~Thornton, A.~Dai, M.~Decker, R.~Dickinson,
+  J.~Feddema, C.~Heald, F.~Hoffman, J.~Lamarque, N.~Mahowald, G.~Niu, T.~Qian,
+  J.~Randerson, S.~Running, K.~Sakaguchi, A.~Slater, R.~Stockli, A.~Wang,
+  Z.~Yang, X.~Zeng, and X.~Zeng (2010{\natexlab{a}}), Technical description of
+  version 4.0 of the {C}ommunity {L}and {M}odel ({CLM}), \textit{NCAR Technical
+  Note NCAR/TN-478+STR}, National Center for Atmospheric Research, Boulder,
+  Colorado, \doi{10.5065/D6FB50WZ}.
+
+\bibitem[{\textit{Oleson et~al.}(2010{\natexlab{b}})\textit{Oleson, Lawrence,
+  Gordon, Flanner, Kluzek, Peter, Levis, Swenson, Thornton, Feddema
+  et~al.}}]{oleson2010technical}
+Oleson, K.~W., D.~M. Lawrence, B.~Gordon, M.~G. Flanner, E.~Kluzek, J.~Peter,
+  S.~Levis, S.~C. Swenson, E.~Thornton, J.~Feddema, et~al.
+  (2010{\natexlab{b}}), Technical description of version 4.0 of the community
+  land model (clm).
+
+\bibitem[{\textit{Pielke et~al.}(2002)\textit{Pielke, Marland, Betts, Chase,
+  Eastman, Niles, Running et~al.}}]{pielke2002influence}
+Pielke, R.~A., G.~Marland, R.~A. Betts, T.~N. Chase, J.~L. Eastman, J.~O.
+  Niles, S.~W. Running, et~al. (2002), The influence of land-use change and
+  landscape dynamics on the climate system: relevance to climate-change policy
+  beyond the radiative effect of greenhouse gases, \textit{Philosophical
+  Transactions of the Royal Society of London A: Mathematical, Physical and
+  Engineering Sciences}, \textit{360}(1797), 1705--1719.
+
+\bibitem[{\textit{Qian et~al.}(2013)\textit{Qian, Huang, Yang, and
+  Berg}}]{qian2013modeling}
+Qian, Y., M.~Huang, B.~Yang, and L.~K. Berg (2013), A modeling study of
+  irrigation effects on surface fluxes and land--air--cloud interactions in the
+  southern great plains, \textit{Journal of Hydrometeorology}, \textit{14}(3),
+  700--721.
+
+\bibitem[{\textit{Rauscher et~al.}(2010)\textit{Rauscher, Coppola, Piani, and
+  Giorgi}}]{rauscher2010resolution}
+Rauscher, S.~A., E.~Coppola, C.~Piani, and F.~Giorgi (2010), {Resolution
+  effects on regional climate model simulations of seasonal precipitation over
+  Europe}, \textit{Climate Dynamics}, \textit{35}(4), 685--711.
+
+\bibitem[{\textit{Rhoades et~al.}(2015)\textit{Rhoades, Huang, Ullrich, and
+  Zarzycki}}]{rhoades2015characterizing}
+Rhoades, A.~M., X.~Huang, P.~A. Ullrich, and C.~M. Zarzycki (2015),
+  Characterizing sierra nevada snowpack using variable-resolution cesm,
+  \textit{Journal of Applied Meteorology and Climatology}, (2015).
+
+\bibitem[{\textit{Sacks et~al.}(2009)\textit{Sacks, Cook, Buenning, Levis, and
+  Helkowski}}]{sacks2009effects}
+Sacks, W.~J., B.~I. Cook, N.~Buenning, S.~Levis, and J.~H. Helkowski (2009),
+  Effects of global irrigation on the near-surface climate, \textit{Climate
+  Dynamics}, \textit{33}(2-3), 159--175.
+
+\bibitem[{\textit{Salas et~al.}(2006)\textit{Salas, Green, Frolking, and
+  Li}}]{salas2006estimating}
+Salas, W., P.~Green, S.~Frolking, and C.~Li (2006), Estimating irrigation water
+  use for california agriculture: 1950s to present, \textit{Contract},
+  \textit{603}, 862--0244.
+
+\bibitem[{\textit{Segal et~al.}(1998)\textit{Segal, Pan, Turner, and
+  Takle}}]{segal1998potential}
+Segal, M., Z.~Pan, R.~Turner, and E.~Takle (1998), On the potential impact of
+  irrigated areas in north america on summer rainfall caused by large-scale
+  systems, \textit{Journal of Applied Meteorology}, \textit{37}(3), 325--331.
+
+\bibitem[{\textit{Shiklomanov}(2000)}]{shiklomanov2000appraisal}
+Shiklomanov, I.~A. (2000), Appraisal and assessment of world water resources,
+  \textit{Water international}, \textit{25}(1), 11--32.
+
+\bibitem[{\textit{Siebert et~al.}(2005)\textit{Siebert, D{\"o}ll, Hoogeveen,
+  Faures, Frenken, and Feick}}]{siebert2005development}
+Siebert, S., P.~D{\"o}ll, J.~Hoogeveen, J.-M. Faures, K.~Frenken, and S.~Feick
+  (2005), Development and validation of the global map of irrigation areas,
+  \textit{Hydrology and Earth System Sciences Discussions Discussions},
+  \textit{2}(4), 1299--1327.
+
+\bibitem[{\textit{Siebert et~al.}(2007)\textit{Siebert, D{\"o}ll, Feick,
+  Hoogeveen, and Frenken}}]{siebert2007global}
+Siebert, S., P.~D{\"o}ll, S.~Feick, J.~Hoogeveen, and K.~Frenken (2007),
+  \textit{Global Map of Irrigation Areas}, FAO Frankfurt, Germany.
+
+\bibitem[{\textit{Snyder et~al.}(2006)\textit{Snyder, Kueppers, Sloan, Cavan,
+  Jin, Kanamaru, Miller, Tyree, Du, and Weare}}]{snyder2006regional}
+Snyder, M., L.~Kueppers, L.~Sloan, D.~Cavan, J.~Jin, H.~Kanamaru, N.~Miller,
+  M.~Tyree, H.~Du, and B.~Weare (2006), Regional climate effects of irrigation
+  and urbanization in the western united states: A model intercomparison,
+  \textit{Lawrence Berkeley National Laboratory}.
+
+\bibitem[{\textit{Solomon}(2007)}]{solomon2007climate}
+Solomon, S. (2007), \textit{Climate change 2007-the physical science basis:
+  Working group I contribution to the fourth assessment report of the IPCC},
+  vol.~4, Cambridge University Press.
+
+\bibitem[{\textit{Staniforth and Mitchell}(1978)}]{staniforth1978variable}
+Staniforth, A.~N., and H.~L. Mitchell (1978), A variable-resolution
+  finite-element technique for regional forecasting with the primitive
+  equations, \textit{Monthly Weather Review}, \textit{106}(4), 439--447.
+
+\bibitem[{\textit{Teixeira et~al.}(2013)\textit{Teixeira, Fischer, van
+  Velthuizen, Walter, and Ewert}}]{teixeira2013global}
+Teixeira, E.~I., G.~Fischer, H.~van Velthuizen, C.~Walter, and F.~Ewert (2013),
+  Global hot-spots of heat stress on agricultural crops due to climate change,
+  \textit{Agricultural and Forest Meteorology}, \textit{170}, 206--215.
+
+\bibitem[{\textit{Wilkinson et~al.}(2002)\textit{Wilkinson, Clarke, Reichman,
+  and Dozier}}]{wilkinson2002preparing}
+Wilkinson, R., K.~Clarke, J.~Reichman, and J.~Dozier (2002), Preparing for a
+  changing climate: the potential consequences of climate variability and
+  change for california, \textit{Report for the US Global Change Research
+  Program}.
+
+\bibitem[{\textit{Williams et~al.}(2015)\textit{Williams, Seager, Abatzoglou,
+  Cook, Smerdon, and Cook}}]{williams2015contribution}
+Williams, A.~P., R.~Seager, J.~T. Abatzoglou, B.~I. Cook, J.~E. Smerdon, and
+  E.~R. Cook (2015), Contribution of anthropogenic warming to california
+  drought during 2012--2014, \textit{Geophysical Research Letters}.
+
+\bibitem[{\textit{Zarzycki et~al.}(2015)\textit{Zarzycki, Jablonowski,
+  Thatcher, and Taylor}}]{zarzycki2015effects}
+Zarzycki, C.~M., C.~Jablonowski, D.~R. Thatcher, and M.~A. Taylor (2015),
+  Effects of localized grid refinement on the general circulation and
+  climatology in the community atmosphere model, \textit{Journal of Climate},
+  \textit{28}(7), 2777--2803.
+
+\end{thebibliography}
